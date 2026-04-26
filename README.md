@@ -30,7 +30,7 @@ Both files use this schema:
 - date: timestamp column
 - value: numeric target column
 
-## KRX API mode
+## KRX API mode(Api 키 발급 과정을 모르겠음)
 1. Select `KRX ETF API` in the app.
 2. Choose start/end date and ETF list base date.
 3. Select ETF and click `KRX 데이터 불러오기`.
